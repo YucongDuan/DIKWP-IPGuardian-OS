@@ -1,10 +1,12 @@
 # DIKWP IPGuardian OS
 
-**DIKWP IPGuardian OS** is an offline-first semantic-space intellectual property risk screening and rights-enforcement preparation system.
+Created by Yucong Duan (段玉聪).
 
-It helps creators, researchers, companies and DIKWP ecosystem maintainers convert IP assets, suspected uses, evidence and authorization facts into a **DIKWP semantic infringement ledger**.
+DIKWP IPGuardian OS is an offline-first semantic-space intellectual property risk screening and rights-enforcement preparation system.
 
-The system does **not** make final legal determinations. It produces structured evidence, semantic similarity signals, claim charts, authorization checks, rights-chain gaps, enforcement options and lawyer-ready briefing materials.
+It helps creators, researchers, companies and DIKWP ecosystem maintainers convert IP assets, suspected uses, evidence and authorization facts into a DIKWP semantic infringement ledger.
+
+The system does not make final legal determinations. It produces structured evidence, semantic similarity signals, claim charts, authorization checks, rights-chain gaps, enforcement options and lawyer-ready briefing materials.
 
 ## Core position
 
